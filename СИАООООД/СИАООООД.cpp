@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <ctime>
 int tran(int rows, int columns, int **mat, int** matrix, int c, int m) {
     for (int i{}; i < rows; i++)
     {
